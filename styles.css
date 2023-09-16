@@ -19,8 +19,7 @@ body {
 /* Style the header and navigation */
 header {
   background-color: #333333;
-  /* padding: 20px; */
-  padding: 10%;
+  padding: 20px;
   color: #ffffff;
 }
 
@@ -48,12 +47,25 @@ section h1, section h2 {
   margin-bottom: 20px;
 }
 
+/* Style the content layout */
+.content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.photo {
+  margin-right: 40px;
+}
+
+.intro {
+  flex-grow: 1;
+}
+
 /* Style the footer */
 footer {
   background-color: #333333;
   padding: 20px;
   color: #ffffff;
   text-align: center;
-  /* margin-top: auto; */
-  margin-bottom: 0;
+  margin-top: auto;
 }
