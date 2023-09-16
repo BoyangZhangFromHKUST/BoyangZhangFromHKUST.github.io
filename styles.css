@@ -53,5 +53,6 @@ footer {
   padding: 20px;
   color: #ffffff;
   text-align: center;
-  margin-top: auto;
+  /* margin-top: auto; */
+  margin-bottom: 0;
 }
