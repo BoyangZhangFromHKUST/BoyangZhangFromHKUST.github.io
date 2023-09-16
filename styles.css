@@ -18,8 +18,9 @@ body {
 
 /* Style the header and navigation */
 header {
-  background-color: #4f4e4e;
-  padding: 30px;
+  background-color: #333333;
+  /* padding: 20px; */
+  padding: 10%;
   color: #ffffff;
 }
 
